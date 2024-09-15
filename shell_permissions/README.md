@@ -12,3 +12,6 @@ for the 1-who_am_i script
 
 #CHAPTER 3: CREATED AN EMPTY FILE CALLED HELLO
 for 4-empty script
+
+#CHAPTER 4: EXECUTE PERMISSION TO THE OWNER OF THE FILE HELLO
+for 5-execute script
